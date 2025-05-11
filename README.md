@@ -34,7 +34,7 @@ For my sudoku solver classes, I learned a lot about the std library and all the 
 {Make a list of websites that you found helpful in this project}
 
 - [C Plus Plus](cplusplus)
-- [Microsoft Windows.h Documentation]([http://url.link.goes.here](https://learn.microsoft.com/en-us/windows/win32/api/winbase/))
+- [Microsoft Windows.h Documentation](https://learn.microsoft.com/en-us/windows/win32/api/winbase/)
 
 
 I also used different links from C++ class in College as I have just started that class a few weeks ago and wanted this to be a side project. 
