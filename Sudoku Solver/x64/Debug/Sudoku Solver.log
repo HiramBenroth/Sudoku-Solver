@@ -1,2 +1,3 @@
-﻿  Sudoku Solver.cpp
-  Sudoku Solver.vcxproj -> C:\Users\hiram\source\repos\Sudoku Solver\x64\Debug\Sudoku Solver.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Sudoku Solver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  group.cpp
+  Sudoku Solver.vcxproj -> C:\Users\hiram\source\repos\Sudoku Solver\x64\Debug\SudokuSolver.exe

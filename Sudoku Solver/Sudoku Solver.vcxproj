@@ -128,12 +128,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="board.h" />
+    <ClInclude Include="file_manager.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="group.h" />
+    <ClInclude Include="node.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="Sudoku Solver.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="board.cpp" />
+    <ClCompile Include="file_manager.cpp" />
+    <ClCompile Include="group.cpp" />
+    <ClCompile Include="node.cpp" />
     <ClCompile Include="Sudoku Solver.cpp" />
   </ItemGroup>
   <ItemGroup>
