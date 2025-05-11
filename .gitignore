@@ -1,34 +1,62 @@
-# Prerequisites
-*.d
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.pdb
+*.idb
+*.ilk
 
-# Compiled Object files
-*.slo
-*.lo
+# VS-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Backup and temp files
+*~
+*.tmp
+*.log
+*.bak
+*.swp
+
+# C++ build artifacts
+*.d
 *.o
 *.obj
-
-# Precompiled Headers
+*.lo
+*.slo
 *.gch
 *.pch
-
-# Compiled Dynamic libraries
 *.so
-*.dylib
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+*.dylib
 *.a
 *.lib
-
-# Executables
+*.la
+*.lai
 *.exe
 *.out
 *.app
 
-.vs/
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Coverage files
+*.gcda
+*.gcno
+*.gcov
+coverage/
