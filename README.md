@@ -15,7 +15,7 @@ Welcome! I'm happy you checked out my Sudoku Solver Softwar, this is a interesti
 
 The reason I wanted to do this is because a few weeks ago I got a Sudoku Book, and in it I had such a hard time solving a normal puzzle. In my fairness they were all rated **Hard**, so getting upset, I decided that if I wasnt bright enough to solve it, I certainly could make something that could solve it. During this project I think I am capable of solving most of the puzzles in the book, And I deffinately know that my Sudoku solver is too! 
 
-[Software Demo Video](http://youtube.link.goes.here](https://www.youtube.com/watch?v=mhUOtsHw_yA)
+[Software Demo Video](https://www.youtube.com/watch?v=mhUOtsHw_yA)
 
 ## Development Environment
 
